@@ -1,3 +1,6 @@
+#Author: Arcee T. Juan, Science Research Specialist I
+#Space Mission Control and Operations Division, Philippine Space Agency
+
 import tkinter as tk
 from tkinter import messagebox, scrolledtext
 import requests
